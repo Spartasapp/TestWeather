@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TestWeather/static/css/main.0468ed6f.chunk.css",
+    "main.js": "/TestWeather/static/js/main.f4dfbdcf.chunk.js",
+    "main.js.map": "/TestWeather/static/js/main.f4dfbdcf.chunk.js.map",
+    "runtime~main.js": "/TestWeather/static/js/runtime~main.d9ab7df1.js",
+    "runtime~main.js.map": "/TestWeather/static/js/runtime~main.d9ab7df1.js.map",
+    "static/js/2.348ed4e8.chunk.js": "/TestWeather/static/js/2.348ed4e8.chunk.js",
+    "static/js/2.348ed4e8.chunk.js.map": "/TestWeather/static/js/2.348ed4e8.chunk.js.map",
+    "index.html": "/TestWeather/index.html",
+    "precache-manifest.e3edd586d6599e302c4e3a2dfb59e581.js": "/TestWeather/precache-manifest.e3edd586d6599e302c4e3a2dfb59e581.js",
+    "service-worker.js": "/TestWeather/service-worker.js",
+    "static/css/main.0468ed6f.chunk.css.map": "/TestWeather/static/css/main.0468ed6f.chunk.css.map"
+  }
+}
